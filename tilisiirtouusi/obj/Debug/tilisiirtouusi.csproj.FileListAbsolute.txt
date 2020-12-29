@@ -1,0 +1,5 @@
+C:\Users\Mika\OneDrive for Business\laskuohjgit\tilisiirtouusi\obj\Debug\tilisiirtouusi.csprojResolveAssemblyReference.cache
+C:\Users\Mika\OneDrive for Business\laskuohjgit\tilisiirtouusi\bin\Debug\tilisiirtouusi.exe
+C:\Users\Mika\OneDrive for Business\laskuohjgit\tilisiirtouusi\bin\Debug\tilisiirtouusi.pdb
+C:\Users\Mika\OneDrive for Business\laskuohjgit\tilisiirtouusi\obj\Debug\tilisiirtouusi.exe
+C:\Users\Mika\OneDrive for Business\laskuohjgit\tilisiirtouusi\obj\Debug\tilisiirtouusi.pdb
